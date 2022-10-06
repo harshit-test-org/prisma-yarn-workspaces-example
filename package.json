@@ -1,0 +1,8 @@
+{
+  "name": "issue-14567",
+  "private":true,
+  "workspaces":["app/*"],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
